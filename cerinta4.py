@@ -22,6 +22,10 @@ print(prop)
 surv = df[df['Survived'] == 1].isnull().sum() / len(df[df['Survived'] == 1]) * 100
 nesurv = df[df['Survived'] == 0].isnull().sum() / len(df[df['Survived'] == 0]) * 100
 
+#Scoatem coloanele care au 0 la procent
+surv = surv[surv > 0]
+nesurv = nesurv[nesurv > 0]
+
 #Printam procentul valorilor lipsa pentru clasa surv = 1
 print("\n\n\n")
 print("Procent valori lipsa surv == 1")
