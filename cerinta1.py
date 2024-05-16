@@ -17,15 +17,15 @@ print("Numarul de coloane din train", numar_coloane)
 print("\n\n\n")
 print("Ce tipuri de date se afla pe prima coloana:", df.dtypes)
 
-#Numaram numarul de linii
-print("\n\n\n")
-numar_linii = len(df)
-print("Numarul de linii:", numar_linii)
-
 #Vedem numarul de valori lipsa
 print("\n\n\n")
 print("Numarul de valori lipsa pentru fiecare coloana:")
 print(df.isnull().sum())
+
+#Numaram numarul de linii
+print("\n\n\n")
+numar_linii = len(df)
+print("Numarul de linii:", numar_linii)
 
 #Vedem daca avem duplicate in train.csv
 print("\n\n\n")
