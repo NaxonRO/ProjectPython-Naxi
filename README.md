@@ -20,7 +20,10 @@
 - Afisam graficele
 
 ## Cerinta 3
-- 
+- Citim din fisierul CSV
+- Selectam coloanele numerice
+- Creeam Histograma pentru fiecare coloana numerica
+- bins reprezinta numarul de intervale
 
 ## Cerinta 4
 - 
