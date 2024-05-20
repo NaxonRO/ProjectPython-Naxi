@@ -33,7 +33,13 @@
 - bins reprezinta numarul de intervale
 
 ## Cerinta 4
-- 
+- Citim din fisierul CSV
+- Identificam coloanele cu valori lipsa
+- Printam coloanele cu valori lipsa
+- Printam numarul valorilor lipsa
+- Calculam procentul de valori lipsa pentru pasagerii supravietuitori si nesupravietuitori
+- Printam procentul de valori lipsa pentru pasagerii supravietuitori
+- Acum printam valorile lipsa pentru pasagerii nesupravietuitori
 
 ## Cerinta 5
 - 
