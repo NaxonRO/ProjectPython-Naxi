@@ -6,6 +6,8 @@
 ``$ sudo apt-get install python3.x``<br>
 - Pandas ( pentru a instala)<br>
 ``$ sudo pip install pandas``
+- Matplotlib ( pentru a instala)<br>
+``$ sudo pip install matplotlib``
 
 ## Cerinta 1
 - Citim din fisierul CSV
@@ -42,7 +44,11 @@
 - Acum printam valorile lipsa pentru pasagerii nesupravietuitori
 
 ## Cerinta 5
-- 
+- Citim din fisierul CSV
+- Dfinim tipurile de varsta
+- Daugam coloana suplimentara pentru tipul de varsta
+- Calculam numarul de pasageri per categorie
+- Creeam graficul cu bare
 
 ## Cerinta 6
 - 
