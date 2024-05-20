@@ -8,6 +8,8 @@
 ``$ sudo pip install pandas``
 - #### Matplotlib ( pentru a instala)<br>
 ``$ sudo pip install matplotlib``
+- #### Seaborn ( pentru a instala)<br>
+``$ sudo pip install seaborn``
 
 ## Cerinta 1
 - Citim din fisierul CSV
@@ -84,4 +86,8 @@
 - Creeam graficul cu numarul de persoane pentru fiecare titlu in parte
 
 ## Cerinta 10
-- 
+- Citim din fisierul CSV
+- Verificam pasagerii daca sunt singuri sau nu
+- Creeam histograma pentru starea de a fi singur si sansele de a supravietuii
+- Selectam primele 100 de inregistrari
+- Creeam diagrama pentru relatiile de tip tarif, clasa si supravietuire
