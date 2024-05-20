@@ -1,12 +1,12 @@
 # Proiect Ciuca_Ionel-Andrei 313CB ( TASK 1)
 
 ### Ca sa putem sa rulam comenzile din aceste cerinte trebuie sa avem instalat 
-- python 3.x ( pentru a instala)<br>
+- #### python 3.x ( pentru a instala)<br>
 ``$ sudo apt-get update``<br>
 ``$ sudo apt-get install python3.x``<br>
-- Pandas ( pentru a instala)<br>
+- #### Pandas ( pentru a instala)<br>
 ``$ sudo pip install pandas``
-- Matplotlib ( pentru a instala)<br>
+- #### Matplotlib ( pentru a instala)<br>
 ``$ sudo pip install matplotlib``
 
 ## Cerinta 1
@@ -51,10 +51,20 @@
 - Creeam graficul cu bare
 
 ## Cerinta 6
-- 
+- Citim din fisierul CSV
+- Definim categoria de varsta
+- Caclulam numarul de barbati supravietuitori per fiecare categorie de varsta
+- Calculam numarul total de barbati per categorie de varsta
+- Calculam procentul de supravietuire
+- Facem graficul
 
 ## Cerinta 7
-- 
+- Citim din fisierul CSV
+- Definim grupurile de varsta pentru copii si adulti
+- Calculam numarul total de participanti pentru copii si adulti
+- Calculam procentu de copii
+- Calculam rata de supravietuire pentru copii si adulti
+- Creeam graficul pentru rata de supravietuire
 
 ## Cerinta 8
 - 
