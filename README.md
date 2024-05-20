@@ -67,7 +67,11 @@
 - Creeam graficul pentru rata de supravietuire
 
 ## Cerinta 8
-- 
+- Citim din fisierul CSV
+- Calculam media pentru varsta si tarif si modulul pentru cabina si portul de imbarcare
+- Definim functiile pentru completarea valorilor lipsa
+- Urmeaza sa completam valorile lipsa pentru coloanele numerice si pentru coloanele categorice
+- Verificam daca ami exista valori nule si afisam
 
 ## Cerinta 9
 - 
