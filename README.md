@@ -1,5 +1,9 @@
 # Proiect Ciuca_Ionel-Andrei 313CB ( TASK 1)
 
+** Ca sa putem sa rulam comenzile din aceste cerinte trebuie sa avem instalat **
+- python 3.x ( rulam comenzile $ sudo apt-get update si dupa aceea $ sudo apt-get install python3.x
+- Pandas ( pentru a instala rulam comenzi urmatoare in terminal: sudo pip install pandas)
+
 ## Cerinta 1
 - Citim din fisierul CSV
 - Afisam primele randuri
