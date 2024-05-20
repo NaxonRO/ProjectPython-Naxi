@@ -1,4 +1,4 @@
-# ProjectPython-Naxi
+# Proiect Ciuca_Ionel-Andrei 313CB
 ## Cerinta 1
 - Citim din fisierul CSV
 - Afisam primele randuri
