@@ -74,7 +74,14 @@
 - Verificam daca ami exista valori nule si afisam
 
 ## Cerinta 9
-- 
+- Citim din fisierul CSV
+- Extragem titlurile din "Name"
+- Definim un dictionar pentru Maparea acestora
+- Verificam daca titlurile sunt corecte
+- Numaram persoanele pentru fiecare titlu in parte
+- Verificam titlurile corecte si afisam
+- Aflam persoanele cu titluri incorecte si afisam
+- Creeam graficul cu numarul de persoane pentru fiecare titlu in parte
 
 ## Cerinta 10
 - 
