@@ -1,14 +1,11 @@
 # Proiect Ciuca_Ionel-Andrei 313CB ( TASK 1)
 
 ### Ca sa putem sa rulam comenzile din aceste cerinte trebuie sa avem instalat 
-- python 3.x ( pentru a instala)
-``bash
-$ sudo apt-get update
-$ sudo apt-get install python3.x``
-- Pandas ( pentru a instala)
-``bash
-sudo pip install pandas
-``
+- python 3.x ( pentru a instala)<br>
+``$ sudo apt-get update``<br>
+``$ sudo apt-get install python3.x``<br>
+- Pandas ( pentru a instala)<br>
+``$ sudo pip install pandas``
 
 ## Cerinta 1
 - Citim din fisierul CSV
