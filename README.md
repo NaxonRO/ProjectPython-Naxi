@@ -104,12 +104,22 @@
 ### Procent sex
 - Au fost mai multi barbati decat femei
 
+![Cerinta2](poze_cerinte/cerinta2.png)
 
 ## Cerinta 3
 - Citim din fisierul CSV
 - Selectam coloanele numerice
 - Creeam Histograma pentru fiecare coloana numerica
 - bins reprezinta numarul de intervale
+
+![Cerinta3_1](poze_cerinte/cerinta3_1.png)
+![Cerinta3_2](poze_cerinte/cerinta3_2.png)
+![Cerinta3_3](poze_cerinte/cerinta3_3.png)
+![Cerinta3_4](poze_cerinte/cerinta3_4.png)
+![Cerinta3_5](poze_cerinte/cerinta3_5.png)
+![Cerinta3_6](poze_cerinte/cerinta3_6.png)
+![Cerinta3_7](poze_cerinte/cerinta3_7.png)
+
 
 ## Cerinta 4
 - Citim din fisierul CSV
@@ -152,6 +162,8 @@
 - Calculam numarul de pasageri per categorie
 - Creeam graficul cu bare
 
+![Cerinta5](poze_cerinte/cerinta5.png)
+
 ## Cerinta 6
 - Citim din fisierul CSV
 - Definim categoria de varsta
@@ -160,6 +172,8 @@
 - Calculam procentul de supravietuire
 - Facem graficul
 
+![Cerinta6](poze_cerinte/cerinta6.png)
+
 ## Cerinta 7
 - Citim din fisierul CSV
 - Definim grupurile de varsta pentru copii si adulti
@@ -167,6 +181,8 @@
 - Calculam procentu de copii
 - Calculam rata de supravietuire pentru copii si adulti
 - Creeam graficul pentru rata de supravietuire
+
+![Cerinta7](poze_cerinte/cerinta7.png)
 
 ## Cerinta 8
 - Citim din fisierul CSV
@@ -188,9 +204,14 @@
 - Aflam persoanele cu titluri incorecte si afisam
 - Creeam graficul cu numarul de persoane pentru fiecare titlu in parte
 
+![Cerinta9](poze_cerinte/cerinta2.png)
+
 ## Cerinta 10
 - Citim din fisierul CSV
 - Verificam pasagerii daca sunt singuri sau nu
 - Creeam histograma pentru starea de a fi singur si sansele de a supravietuii
 - Selectam primele 100 de inregistrari
 - Creeam diagrama pentru relatiile de tip tarif, clasa si supravietuire
+
+![Cerinta10_1](poze_cerinte/cerinta10_1.png)
+![Cerinta10_2](poze_cerinte/Cerinta10_2.png)
