@@ -20,6 +20,69 @@
 - Afisam numarul de randuri
 - Afisam randurile duplicate
 
+- Rezultate obtinute:
+
+#### Primele randuri din fisierul train:
+   PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked
+0            1         0       3  ...   7.2500   NaN         S
+1            2         1       1  ...  71.2833   C85         C
+2            3         1       3  ...   7.9250   NaN         S
+3            4         1       1  ...  53.1000  C123         S
+4            5         0       3  ...   8.0500   NaN         S
+
+[5 rows x 12 columns]
+
+
+
+
+#### Numarul de coloane din train 12
+
+
+
+
+#### Ce tipuri de date se afla pe prima coloana: PassengerId      int64
+- Survived         int64
+- Pclass           int64
+- Name            object
+- Sex             object
+- Age            float64
+- SibSp            int64
+- Parch            int64
+- Ticket          object
+- Fare           float64
+- Cabin           object
+- Embarked        object
+- dtype: object
+
+
+
+
+#### Numarul de valori lipsa pentru fiecare coloana:
+- PassengerId      0
+- Survived         0
+- Pclass           0
+- Name             0
+- Sex              0
+- Age            177
+- SibSp            0
+- Parch            0
+- Ticket           0
+- Fare             0
+- Cabin          687
+- Embarked         2
+- dtype: int64
+
+
+
+
+#### Numarul de linii: 891
+
+
+
+
+#### Nu exista linii duplicate in train
+
+
 ## Cerinta 2
 - Citim din fisierul CSV
 - Calculam procentul de supravietuitori si nesupravietuitori
@@ -29,6 +92,18 @@
 - Cream graficul pentru clase
 - Creeam graficul pentru gen
 - Afisam graficele
+
+- Rezultate obtinute
+
+### Procent supravietuitori
+- Se observa ca supravietuitorii au un procent mai mic fata de cei care nu au trait
+
+### Procent clase
+- Procentul este descrescator, de la clasa 3, la 2, la 1
+
+### Procent sex
+- Au fost mai multi barbati decat femei
+
 
 ## Cerinta 3
 - Citim din fisierul CSV
@@ -44,6 +119,31 @@
 - Calculam procentul de valori lipsa pentru pasagerii supravietuitori si nesupravietuitori
 - Printam procentul de valori lipsa pentru pasagerii supravietuitori
 - Acum printam valorile lipsa pentru pasagerii nesupravietuitori
+
+- Rezultate obtinute:
+
+#### Coloanele cu valori lipsa:
+- Age         177
+- Cabin       687
+- Embarked      2
+- dtype: int64
+
+#### Numarul si proportia valorilor lipsa:
+- Age         19.865320
+- Cabin       77.104377
+- Embarked     0.224467
+- dtype: float64
+
+#### Procent valori lipsa surv == 1
+- Age         15.204678
+- Cabin       60.233918
+- Embarked     0.584795
+- dtype: float64
+
+#### Procent valori lipsa surv == 0
+- Age      22.768670
+- Cabin    87.613843
+- dtype: float64
 
 ## Cerinta 5
 - Citim din fisierul CSV
@@ -74,6 +174,9 @@
 - Definim functiile pentru completarea valorilor lipsa
 - Urmeaza sa completam valorile lipsa pentru coloanele numerice si pentru coloanele categorice
 - Verificam daca ami exista valori nule si afisam
+
+- Rezultate obtinute:
+#### Am modificat coloanele care aveau valori lipsa
 
 ## Cerinta 9
 - Citim din fisierul CSV
