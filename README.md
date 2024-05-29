@@ -194,6 +194,8 @@
 - Rezultate obtinute:
 #### Am modificat coloanele care aveau valori lipsa
 
+#### Au aparut modificari in Age si Cabin
+
 ## Cerinta 9
 - Citim din fisierul CSV
 - Extragem titlurile din "Name"
