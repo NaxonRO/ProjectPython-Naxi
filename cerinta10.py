@@ -19,7 +19,7 @@ plt.show()
 
 #Selectam primele 100 de inreg
 df_100 = df.head(100)
-sns.catplot(data=df_100, x='Pclass', y='Fare', hue='Survived', kind='swarm')
+sns.catplot(data=df_100, x='Pclass', y='Fare', hue='Survived', kind='swarm', size=3, height=6, aspect=1.5)
 plt.title('Rel dintre tarif, clasa si stare surpav')
 plt.xlabel('Clasa')
 plt.ylabel('Tarif')
